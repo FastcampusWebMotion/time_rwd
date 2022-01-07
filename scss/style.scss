@@ -117,6 +117,11 @@ main {
             text-align: center;
             overflow: hidden;
 
+            span {
+                display: inline-block;
+                width: 100px;
+            }
+
             .cl1 {
                 width: 600px;
                 position: absolute;
